@@ -9,7 +9,7 @@
 
 | Nombre | Matrícula |
 |---|---|
-| [NOMBRE COMPLETO] | [MATRÍCULA] |
+| Claribel Martínez Báez | 25-SISN-2-030 |
 
 ## Descripción
 
